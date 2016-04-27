@@ -1,3 +1,8 @@
+
+[Build]
+Refer to http://stackoverflow.com/questions/30730931/no-need-for-code-signing-with-xcode-7-for-developers for signing issue.
+
+
 [iOS] mxnet 的 iOS 版本编译
  skylook 2015年12月10日 1 Comment
 mxnet2
